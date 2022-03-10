@@ -14,6 +14,7 @@ for _ in range(word_length):
 
 wordGuessed = False
 
+# While loop to allow the user to keep guessing until the word is fully revealed
 while wordGuessed is False:
     guess = input("Guess a letter: ").lower()
     for position in range(word_length):
