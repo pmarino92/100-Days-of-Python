@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="f357f304-ac7d-4a81-8a78-4cc2c0705d1f" name="Changes" comment="" />
+    <list default="true" id="63602faf-d71f-47cc-a96b-a5d0b3ed05cd" name="Changes" comment="" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -13,7 +13,7 @@
   <component name="MarkdownSettingsMigration">
     <option name="stateVersion" value="1" />
   </component>
-  <component name="ProjectId" id="27qq6DcPHahp3mnVSifYMQ5vXCd" />
+  <component name="ProjectId" id="28J17d1PtZYnot47ipiAjjEhaSF" />
   <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
   <component name="ProjectViewState">
     <option name="hideEmptyMiddlePackages" value="true" />
@@ -22,11 +22,10 @@
   <component name="PropertiesComponent">
     <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
     <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
-    <property name="last_opened_file_path" value="$USER_HOME$/Downloads/Django-Projects-main/Django-Projects-main/venv1" />
   </component>
   <component name="RunManager">
-    <configuration name="main" type="PythonConfigurationType" factoryName="Python" nameIsGenerated="true">
-      <module name="Day 19 - Instances, HO Functions" />
+    <configuration name="main" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+      <module name="Day 20 - Snake" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
       <envs>
@@ -46,15 +45,20 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Python.main" />
+      </list>
+    </recent_temporary>
   </component>
   <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
   <component name="TaskManager">
     <task active="true" id="Default" summary="Default task">
-      <changelist id="f357f304-ac7d-4a81-8a78-4cc2c0705d1f" name="Changes" comment="" />
-      <created>1650057786711</created>
+      <changelist id="63602faf-d71f-47cc-a96b-a5d0b3ed05cd" name="Changes" comment="" />
+      <created>1650919708997</created>
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
-      <updated>1650057786711</updated>
+      <updated>1650919708997</updated>
     </task>
     <servers />
   </component>
